@@ -93,4 +93,4 @@ Pronto ! Podemos observar que o target database (server01) foi registrado com su
 
 Referência
 [Database Backup and Recovery User's Guide](https://docs.oracle.com/database/121/BRADV/rcmcatdb.htm#BRADV11001)
-[Oracle® Database Backup and Recovery User's Guide]((https://docs.oracle.com/cd/E25178_01/backup.1111/e10642/rcmcatdb.htm)
+[Oracle® Database Backup and Recovery User's Guide](https://docs.oracle.com/cd/E25178_01/backup.1111/e10642/rcmcatdb.htm)
